@@ -50,7 +50,7 @@
 Описание работы доступно на [вики](https://github.com/interlark/parser-2gis/wiki).
 
 ## 👍 Поддержать проект
-<a href="https://yoomoney.ru/to/4100118362270186" target="_blank">
+<a href="https://t.me/by_sale_2" target="_blank">
   <img alt="Yoomoney Donate" src="https://github.com/interlark/parser-2gis/assets/20641837/e875e948-0d69-4ed5-804c-8a1736ab0c9d" width="150">
 </a>
 
